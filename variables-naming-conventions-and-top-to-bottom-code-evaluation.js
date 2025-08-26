@@ -30,3 +30,14 @@ let c = 20;
 let d = a + " bought " + b + " items for $" + c + ".";
 
 console.log(d);
+
+
+  /i am currently having issues committing and pushing a file back from VS code, but i would update the code to read
+
+let customerName = "Alice";
+let itemNumber = 5;
+let price = 4;
+let totalPrice = itemNumber * price;
+let sentence = customerName + " bought " + itemNumber + " items for $ " + totalPrice + " . ";
+
+console.log(sentence);
